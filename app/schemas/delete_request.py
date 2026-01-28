@@ -29,9 +29,6 @@ class DeleteFileRequest(BaseModel):
             "examples": [
                 {
                     "storage_key": "critique-of-pure-reason.pdf"
-                },
-                {
-                    "storage_key": "cute-cat.png"
                 }
             ]
         }
