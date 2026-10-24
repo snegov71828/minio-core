@@ -2,6 +2,21 @@
 
 *An educational project showcasing how to use MinIO with Python, covering both synchronous and asynchronous approaches.*
 
+> [!WARNING]  
+> **Project Archived**
+> 
+> This project is no longer actively maintained. 
+> 
+> **Context:**  
+> Originally, this repository began as a modular component of a large-scale university assignment. Rather than simply completing the task and discarding the code, I chose to expand it into a structured mini-project to deeply explore how to work with MinIO in practice. Over time, however, I decided to consolidate all the modular knowledge I gained in web technologies into a single, unified educational project. Maintaining "perfect educational code" for MinIO across multiple separate repositories became inefficient and fragmented.
+> 
+> **Reason for Archiving:**  
+> Consequently, I made the decision to archive this standalone project to consolidate and maintain the highest quality, up-to-date code in a single location. 
+> 
+> This repository remains available purely as an educational reference for those interested in a foundational understanding of how to work with MinIO in practice. For the most up-to-date and comprehensive implementation, please refer to my main unified project:
+> 
+> - [Pose Estimation Service](https://github.com/snegoviol/pose-estimation-service)
+
 ## Project Structure
 
 ```
